@@ -11,8 +11,7 @@
   "directory": "chars/Asuna",
   "image": "Covers/Asuna.png",
   "pmx": "baAsuna_1.0_base.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 190013,
@@ -26,8 +25,7 @@
   "directory": "chars/Ayaka",
   "image": "Covers/Ayaka.png",
   "pmx": "Ayaka_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 190014,
@@ -41,8 +39,7 @@
   "directory": "chars/AzurCowpens",
   "image": "Covers/AzurCowpens.png",
   "pmx": "USS Cowpens：Milky Ministrations-Black.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 190015,
@@ -56,8 +53,7 @@
   "directory": "chars/AzurHelenaFeals",
   "image": "Covers/AzurHelenaFeals.png",
   "pmx": "Helena Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 190016,
@@ -71,8 +67,7 @@
   "directory": "chars/Iori",
   "image": "Covers/Iori.png",
   "pmx": "Iori_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 190017,
@@ -86,8 +81,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "手机.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 190018,
@@ -101,7 +95,6 @@
   "directory": "chars/Bunny",
   "image": "Covers/Bunny.png",
   "pmx": "武藏兔女郎1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  }
 ]
