@@ -11,8 +11,7 @@
   "directory": "chars/Ayaka1",
   "image": "Covers/Ayaka1.png",
   "pmx": "Ayaka Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191007,
@@ -26,8 +25,7 @@
   "directory": "chars/AzurCowpens",
   "image": "Covers/AzurCowpens.png",
   "pmx": "USS Cowpens：Milky Ministrations-Full Black.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191008,
@@ -41,8 +39,7 @@
   "directory": "chars/AzurCowpens",
   "image": "Covers/AzurCowpens.png",
   "pmx": "USS Cowpens：Milky Ministrations-Red.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191009,
@@ -56,8 +53,7 @@
   "directory": "chars/AzurCowpens",
   "image": "Covers/AzurCowpens.png",
   "pmx": "USS Cowpens：Milky Ministrations.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191010,
@@ -71,8 +67,7 @@
   "directory": "chars/Iori",
   "image": "Covers/Iori.png",
   "pmx": "Iori_1.0_足回転0.5.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191011,
@@ -86,8 +81,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "耳机.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191012,
@@ -101,8 +95,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "铃 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191013,
@@ -116,8 +109,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "铃 黑丝版.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  },
  {
   "id": 191014,
@@ -131,7 +123,6 @@
   "directory": "chars/Bunny1",
   "image": "Covers/Bunny1.png",
   "pmx": "信浓兔女郎1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_4/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_4/"
  }
 ]
